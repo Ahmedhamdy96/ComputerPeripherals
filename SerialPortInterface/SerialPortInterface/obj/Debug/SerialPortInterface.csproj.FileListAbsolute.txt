@@ -1,0 +1,9 @@
+C:\Users\eahme\Desktop\ComputerPeripherals\SerialPortInterface\SerialPortInterface\bin\Debug\SerialPortInterface.exe.config
+C:\Users\eahme\Desktop\ComputerPeripherals\SerialPortInterface\SerialPortInterface\obj\Debug\SerialPortInterface.csprojResolveAssemblyReference.cache
+C:\Users\eahme\Desktop\ComputerPeripherals\SerialPortInterface\SerialPortInterface\obj\Debug\SerialPortInterface.Form1.resources
+C:\Users\eahme\Desktop\ComputerPeripherals\SerialPortInterface\SerialPortInterface\obj\Debug\SerialPortInterface.Properties.Resources.resources
+C:\Users\eahme\Desktop\ComputerPeripherals\SerialPortInterface\SerialPortInterface\obj\Debug\SerialPortInterface.csproj.GenerateResource.Cache
+C:\Users\eahme\Desktop\ComputerPeripherals\SerialPortInterface\SerialPortInterface\bin\Debug\SerialPortInterface.exe
+C:\Users\eahme\Desktop\ComputerPeripherals\SerialPortInterface\SerialPortInterface\bin\Debug\SerialPortInterface.pdb
+C:\Users\eahme\Desktop\ComputerPeripherals\SerialPortInterface\SerialPortInterface\obj\Debug\SerialPortInterface.exe
+C:\Users\eahme\Desktop\ComputerPeripherals\SerialPortInterface\SerialPortInterface\obj\Debug\SerialPortInterface.pdb
